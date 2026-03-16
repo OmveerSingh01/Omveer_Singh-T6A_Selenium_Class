@@ -1,0 +1,24 @@
+shortcut for ID - #(hash) , Class - .(dot)
+
+
+XPATH - XML PATH
+-> we can traverse forward and backward
+-> locate element based on any visible element like LINK_TEXT, not only anchor tag like LINK_TEXT
+-> locate element based on attribute
+-> used for dynamic element - ex. scoreboard of cricket
+
+2 Types of XPATH--
+ Absolute - /html/body/div[1]/input[1]
+ Relatable - //directly jump to any element, //div[2]/input[2] or //input[4]
+
+XPath using --
+ attribute - //tagname [@attribute = 'value']
+ text -
+
+Xpath using contains --
+ attribute - //tagname [contains(@attribute,'value')]
+ texts - //tagname [contains(text(),'text')]
+         //tagname [contains(.,'text')]
+
+ if 1 of 6 then (//tagname [@attribute = 'value'])[6] will take 6th element
+
