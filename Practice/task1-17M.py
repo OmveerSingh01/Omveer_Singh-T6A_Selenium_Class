@@ -21,6 +21,3 @@ driver.close()
 # print(driver.find_element(By.XPATH, "(//div[@class='RGLWAk'])[6]//a[2]").text)
 # sleep(7)
 
-
-# click add
-# after creation get name = sal
