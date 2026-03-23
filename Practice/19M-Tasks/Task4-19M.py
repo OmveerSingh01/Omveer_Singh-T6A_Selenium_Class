@@ -18,4 +18,4 @@ driver.find_element(By.XPATH,"//input[@id='singleFileInput']").send_keys(r"C:\Us
 #     driver.find_element(By.XPATH,"//input[@id='multipleFilesInput']").send_keys(i)
 #
 driver.find_element(By.XPATH,"//input[@id='multipleFilesInput']").send_keys(r'C:\Users\Omveer\OneDrive\사진\Screenshots\Screenshot 2024-11-20 125331.png' + '\n' + r"C:\Users\Omveer\OneDrive\사진\Screenshots\Screenshot 2024-11-21 020808.png" )
-driver.close()
+# driver.close()
