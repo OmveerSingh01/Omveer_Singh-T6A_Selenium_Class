@@ -20,7 +20,6 @@ driver.implicitly_wait(10)
 # multiselect = driver.find_element(By.ID,"hobby")
 #
 # option = Select(multiselect)
-#
 # # option.select_by_value("MH")
 # # option.select_by_visible_text("Maharastra")
 # option.select_by_index(1)
