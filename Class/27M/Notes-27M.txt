@@ -1,0 +1,16 @@
+Pytest is a unit testung framework
+The rules are :
+1. File should start with "test_ or Test "
+2. Function should start with "test_"
+3. Class name should start with capital letter
+
+When we follow these rules, Pytest will automatically  recognise these files,classes and functions.
+So, without giving function call ,we can execute the test functions and
+without creating the object we can execute the test class
+-v stands for verbosity :- It gives the detailed description of the code
+-s stands for scripting :- It will print all the print statements
+
+NOTE :- Pytest cannot recognise the functions if it is not following the rules
+
+If we make object and call functions the script will run twice
+It will run for python and pytest is also running it.
