@@ -57,5 +57,11 @@ def test_name():
     print(f'Name : {actual}')
 
 driver.close()
+'''
+For smoke testing run -> pytest .\Test_Task2.py -vs -m "smoke"
+For regression testing run -> pytest .\Test_Task2.py -vs -m "regression"
+'''
+#
+#
 
 
