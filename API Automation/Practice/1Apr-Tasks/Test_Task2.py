@@ -8,14 +8,15 @@ o = EdgeOptions()
 o.add_experimental_option("detach", True)
 driver = Edge(options=o)
 wait = WebDriverWait(driver, 10)
-driver.implicitly_wait(20)
 driver.get('https://www.chennaisuperkings.com/')
 driver.maximize_window()
+driver.implicitly_wait(60)
+
 
 
 @pytest.mark.smoke
 def test_captain():
-    driver.find_element(By.XPATH, "//a[.='TEAM']").click()
+    driver.find_element(By.XPATH, '//a[.="TEAM"]').click()
     # cap = driver.find_element(By.XPATH,"(//div[.=' MS DHONI '])[1]").text
     cap = wait.until(EC.visibility_of_element_located((By.XPATH, "//div[contains(text(),'DHONI')]"))).text
     expected =  'MS DHONI'
@@ -56,7 +57,7 @@ def test_name():
     assert expected == actual,"Name Mismatch"
     print(f'Name : {actual}')
 
-driver.close()
+# driver.close()
 '''
 For smoke testing run -> pytest .\Test_Task2.py -vs -m "smoke"
 For regression testing run -> pytest .\Test_Task2.py -vs -m "regression"
