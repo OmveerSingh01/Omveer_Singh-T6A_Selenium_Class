@@ -1,0 +1,12 @@
+implicit wait also called global wait
+Implicit wait -- whenever page is ready to perform action, it will perform that action without waiting more.
+it will wait until page loads. check again and again in each .5 seconds
+just give Implicit wait once then it will work for all find_element
+
+sleep is static wait.
+
+Implicit wait in Selenium makes WebDriver wait for a specified time while searching for elements before throwing an exception.
+Applies globally (for all elements)
+Set once for entire session
+It is a maximum wait, not fixed delay
+Selenium keeps checking until element is found

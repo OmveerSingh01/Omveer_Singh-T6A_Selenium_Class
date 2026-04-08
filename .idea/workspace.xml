@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="021e7fa1-f51d-43ee-ace9-1aabdc946cab" name="Changes" comment="Updated">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3ApsJsh0wDzFy4aEkNeBGw4LJ90" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for Test_Task2.test_captain.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Test_Task2.test_price.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Test_2Apr-fixture.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Test_Task1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Test_Task2.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Test_sauce_demo.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_login.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16M-Tasks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16M-X-Path.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17-M.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18M-items.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19M-items.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23M-Action_chains_Class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24M-iframe1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2Apr-excel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6Apr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Alerts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Assertion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Keyboarrd-23.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Locators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scroll.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Session.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task1-19M.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task2-17M-.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task2-19M.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task3-19M.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task4-19M.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tasks1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Window_switch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.download.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.petstore.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sheet02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t1_learn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task1-17M.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Selenium_capgemini&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.customizations&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.31771895&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Selenium_Training_py\Selenium_capgemini\Pytest_Framework\tests" />
+      <recent name="D:\Selenium_capgemini\Practice\12M-Tasks-Launch" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Selenium_capgemini" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Test_Task2.test_captain" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_capgemini" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test_Task2.test_captain&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Test_Task2.test_price" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_capgemini" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test_Task2.test_price&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for Test_Task2.test_price" />
+        <item itemvalue="Python tests.Python tests for Test_Task2.test_captain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.31033.139" />
+        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="021e7fa1-f51d-43ee-ace9-1aabdc946cab" name="Changes" comment="" />
+      <created>1773300780417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773300780417</updated>
+      <workItem from="1773300781840" duration="1513000" />
+      <workItem from="1773377709464" duration="441000" />
+      <workItem from="1773378196695" duration="6716000" />
+      <workItem from="1773391069024" duration="121000" />
+      <workItem from="1773391225128" duration="46000" />
+      <workItem from="1773391685367" duration="183000" />
+      <workItem from="1773392784667" duration="89000" />
+      <workItem from="1773392905065" duration="343000" />
+      <workItem from="1773393803543" duration="315000" />
+      <workItem from="1773394425206" duration="4613000" />
+      <workItem from="1773463648140" duration="11731000" />
+      <workItem from="1773479655839" duration="432000" />
+      <workItem from="1773635370176" duration="11831000" />
+      <workItem from="1773720743649" duration="10939000" />
+      <workItem from="1773764505152" duration="1087000" />
+      <workItem from="1773809799518" duration="2739000" />
+      <workItem from="1773895795251" duration="14954000" />
+      <workItem from="1773982094838" duration="2529000" />
+      <workItem from="1774241415979" duration="16203000" />
+      <workItem from="1774280174593" duration="8466000" />
+      <workItem from="1774327871358" duration="13738000" />
+      <workItem from="1774360608863" duration="3620000" />
+      <workItem from="1774413883669" duration="827000" />
+      <workItem from="1774415011506" duration="5847000" />
+      <workItem from="1774530802046" duration="8125000" />
+      <workItem from="1774587078622" duration="1582000" />
+      <workItem from="1774625622232" duration="3770000" />
+      <workItem from="1774671499632" duration="6384000" />
+      <workItem from="1775028529700" duration="5936000" />
+      <workItem from="1775058919337" duration="9001000" />
+      <workItem from="1775104745765" duration="1637000" />
+      <workItem from="1775106553219" duration="13699000" />
+      <workItem from="1775148827965" duration="38000" />
+      <workItem from="1775234377731" duration="268000" />
+      <workItem from="1775276770020" duration="11768000" />
+      <workItem from="1775492294158" duration="1937000" />
+      <workItem from="1775535483222" duration="9637000" />
+      <workItem from="1775627739634" duration="1465000" />
+      <workItem from="1775642118202" duration="718000" />
+    </task>
+    <task id="LOCAL-00001" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1773765334308</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773765334308</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Class/16M-X-Path.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Class/24M-Frames/Alerts.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$Keyboarrd_23.coverage" NAME="Keyboarrd-23 Coverage Results" MODIFIED="1774249924081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class/23M-Keyboard_actions" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$Task2_19M.coverage" NAME="Task2-19M Coverage Results" MODIFIED="1773982108413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/19M-Tasks" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$6Apr.coverage" NAME="6Apr Coverage Results" MODIFIED="1775540121545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API Automation/Class" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$Task3_19M.coverage" NAME="Task3-19M Coverage Results" MODIFIED="1773982184667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/19M-Tasks" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$sheet02.coverage" NAME="sheet02 Coverage Results" MODIFIED="1775123675768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API Automation/Class/Test_2A-testing" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$Window_switch.coverage" NAME="Window_switch Coverage Results" MODIFIED="1774361060917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class/23M-Keyboard_actions" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$17_M.coverage" NAME="17-M Coverage Results" MODIFIED="1773744255804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$Task4_19M.coverage" NAME="Task4-19M Coverage Results" MODIFIED="1773916580527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/19M-Tasks" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$Task1.coverage" NAME="Task1 Coverage Results" MODIFIED="1774423502488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/25M-Tasks-assert" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$Task1_19M.coverage" NAME="Task1-19M Coverage Results" MODIFIED="1773898740086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/19M-Tasks" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$Task4.coverage" NAME="Task4 Coverage Results" MODIFIED="1774543122699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/25M-Tasks-assert" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$Session.coverage" NAME="Session Coverage Results" MODIFIED="1775541324749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API Automation/Class/7Apr" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$Task3.coverage" NAME="Task3 Coverage Results" MODIFIED="1774543346303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/25M-Tasks-assert" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$16M_Tasks.coverage" NAME="16M-Tasks Coverage Results" MODIFIED="1773723368249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$Assertion.coverage" NAME="Assertion Coverage Results" MODIFIED="1774422109830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class/25M-assertion" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$18M_items.coverage" NAME="18M-items Coverage Results" MODIFIED="1773896967085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$task1_17M.coverage" NAME="task1-17M Coverage Results" MODIFIED="1773764598296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$Locators.coverage" NAME="Locators Coverage Results" MODIFIED="1773473790122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$main.coverage" NAME="main Coverage Results" MODIFIED="1773644735402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$download.coverage" NAME="download Coverage Results" MODIFIED="1774348118250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class/24M-Frames" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$19M_items.coverage" NAME="19M-items Coverage Results" MODIFIED="1773912314046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$Tasks1.coverage" NAME="Tasks1 Coverage Results" MODIFIED="1774285996565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/23M-tasks" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$Scroll.coverage" NAME="Scroll Coverage Results" MODIFIED="1774257465308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class/23M-Keyboard_actions" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$16M_X_Path.coverage" NAME="16M-X-Path Coverage Results" MODIFIED="1773646371460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$2Apr_excel.coverage" NAME="2Apr-excel Coverage Results" MODIFIED="1775124208927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API Automation/Class" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$Alerts.coverage" NAME="Alerts Coverage Results" MODIFIED="1774344869108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class/24M-Frames" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$.coverage" NAME=" Coverage Results" MODIFIED="1775295597532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$task1.coverage" NAME="task1 Coverage Results" MODIFIED="1774262250807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/23M-tasks" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$petstore.coverage" NAME="petstore Coverage Results" MODIFIED="1775037072584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API Automation" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$23M_Action_chains_Class.coverage" NAME="23M-Action_chains_Class Coverage Results" MODIFIED="1774262816488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class/23M-Keyboard_actions" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$24M_iframe1.coverage" NAME="24M-iframe1 Coverage Results" MODIFIED="1774343633123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class/24M-Frames" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$Task2_17M_.coverage" NAME="Task2-17M- Coverage Results" MODIFIED="1773810032170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/17M-Tasks-XPath" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$t1_learn.coverage" NAME="t1_learn Coverage Results" MODIFIED="1774245188086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/20M-Tasks-dropdown" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$Task2.coverage" NAME="Task2 Coverage Results" MODIFIED="1774543181160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/25M-Tasks-assert" />
+  </component>
+</project>
