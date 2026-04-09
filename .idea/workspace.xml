@@ -108,7 +108,7 @@
       <recent name="D:\Selenium_capgemini\Practice\12M-Tasks-Launch" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Selenium_capgemini" />
       <option name="ENV_FILES" value="" />

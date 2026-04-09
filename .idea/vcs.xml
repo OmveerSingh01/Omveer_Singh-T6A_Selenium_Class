@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
-<<<<<<< HEAD
-    <mapping directory="$PROJECT_DIR$/Pytest_Framework" vcs="Git" />
-=======
->>>>>>> 0b9808e469f11c360bbb9c79fc06237b64bd53cf
+    <mapping directory="" vcs="Git" />
   </component>
 </project>
