@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="021e7fa1-f51d-43ee-ace9-1aabdc946cab" name="Changes" comment="Updated">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frameworks/Shopper_stack Framework/.idea/Shopper_stack Framework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Framework/utils/read_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_Framework/utils/read_data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +74,7 @@
     &quot;Python.Task4.executor&quot;: &quot;Run&quot;,
     &quot;Python.Tasks1.executor&quot;: &quot;Run&quot;,
     &quot;Python.Window_switch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chatBot.executor&quot;: &quot;Run&quot;,
     &quot;Python.download.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.petstore.executor&quot;: &quot;Run&quot;,
@@ -85,6 +87,7 @@
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -108,7 +111,32 @@
       <recent name="D:\Selenium_capgemini\Practice\12M-Tasks-Launch" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.chatBot">
+    <configuration name="chatBot" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Selenium_capgemini" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11 (Selenium_capgemini)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9Apr-API Integration/Practice" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9Apr-API Integration/Practice/chatBot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Selenium_capgemini" />
       <option name="ENV_FILES" value="" />
@@ -177,7 +205,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.31033.139" />
         <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
       </set>
     </attachedChunks>
@@ -228,6 +255,10 @@
       <workItem from="1775535483222" duration="9637000" />
       <workItem from="1775627739634" duration="1465000" />
       <workItem from="1775642118202" duration="718000" />
+      <workItem from="1775756569793" duration="1472000" />
+      <workItem from="1775797072789" duration="1498000" />
+      <workItem from="1775811224625" duration="6091000" />
+      <workItem from="1775841493021" duration="1373000" />
     </task>
     <task id="LOCAL-00001" summary="Updated">
       <option name="closed" value="true" />
@@ -258,6 +289,10 @@
           <url>file://$PROJECT_DIR$/Class/24M-Frames/Alerts.py</url>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/API_Framework/tests/test_cart.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -280,6 +315,7 @@
     <SUITE FILE_PATH="coverage/Selenium_capgemini$18M_items.coverage" NAME="18M-items Coverage Results" MODIFIED="1773896967085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
     <SUITE FILE_PATH="coverage/Selenium_capgemini$task1_17M.coverage" NAME="task1-17M Coverage Results" MODIFIED="1773764598296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
     <SUITE FILE_PATH="coverage/Selenium_capgemini$Locators.coverage" NAME="Locators Coverage Results" MODIFIED="1773473790122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
+    <SUITE FILE_PATH="coverage/Selenium_capgemini$chatBot.coverage" NAME="chatBot Coverage Results" MODIFIED="1775756821195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9Apr-API Integration/Practice" />
     <SUITE FILE_PATH="coverage/Selenium_capgemini$main.coverage" NAME="main Coverage Results" MODIFIED="1773644735402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Selenium_capgemini$download.coverage" NAME="download Coverage Results" MODIFIED="1774348118250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class/24M-Frames" />
     <SUITE FILE_PATH="coverage/Selenium_capgemini$19M_items.coverage" NAME="19M-items Coverage Results" MODIFIED="1773912314046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
