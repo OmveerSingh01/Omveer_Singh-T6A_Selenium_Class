@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        PYTHON_PATH  = 'C:\Users\Omveer\AppData\Local\Microsoft\WindowsApps\python.exe'
+        PYTHON_PATH  = bat '"C:\\Users\\Omveer\\AppData\\Local\\Programs\\Python\\Python311\\python.exe" --version'
         VENV_DIR     = '.venv'
         REPORTS_DIR  = 'reports'
         TEST_DIR     = 'tests'
